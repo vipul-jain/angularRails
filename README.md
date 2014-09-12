@@ -1,0 +1,4 @@
+angularRails
+============
+
+Angular and rails
